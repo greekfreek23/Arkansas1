@@ -1,0 +1,304 @@
+{
+  "ids": {
+    "site_id": "1stcallplumbingandrooterservice",
+    "place_id": "ChIJkxoTEefq0ocRDv-RCXPG-XA",
+    "google_id": "0x87d2eae711131a93:0x70f9c6730991ff0e",
+    "owner_id": 110661574022601874454
+  },
+  "basic_info": {
+    "name": "1st call plumbing and rooter service",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkxoTEefq0ocRDv-RCXPG-XA&q=plumber,+72076,+Jacksonville,+AR,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 501-772-7352",
+    "query": "plumber, 72076, Jacksonville, AR, US",
+    "name_for_emails": "1St Call Plumbing And Rooter Service",
+    "site": "",
+    "subtypes": "Plumber",
+    "category": "Plumber",
+    "type": "Plumber",
+    "phone.phones_enricher.carrier_type": "mobile",
+    "phone.phones_enricher.carrier_name": "NEW CINGULAR WIRELESS PCS, LLC - IL",
+    "full_address": "1409 Rebel Dr, Jacksonville, Arkansas 72076",
+    "borough": "None",
+    "street": "1409 Rebel Dr",
+    "city": "Jacksonville",
+    "postal_code": 72076,
+    "state": "Arkansas",
+    "us_state": "Arkansas",
+    "country": "United States of America",
+    "country_code": "US",
+    "latitude": 35.3186489,
+    "longitude": -87.6136849,
+    "h3": "89264826417ffff",
+    "time_zone": "America/Chicago",
+    "plus_code": "",
+    "area_service": "FALSE",
+    "rating": 4.9,
+    "reviews": 31,
+    "reviews_tags": "",
+    "reviews_per_score": "",
+    "photos_count": 3,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipPw_PyNSdprje3SQwKat4bASxx2iX1cZq1VtHg=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipPw_PyNSdprje3SQwKat4bASxx2iX1cZq1VtHg=w1600-h1000-k-no",
+    "located_in": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+    "other_hours": "",
+    "popular_times": "",
+    "business_status": "OPERATIONAL",
+    "about": "{\"Service options\": {\"Online estimates\": false}, \"Payments\": {\"Credit cards\": true}}",
+    "range": "",
+    "posts": "",
+    "logo": "https://lh6.googleusercontent.com/-I2EqOfhnRgE/AAAAAAAAAAI/AAAAAAAAAAA/l6Ps-P4uVEI/s44-p-k-no-ns-nd/photo.jpg",
+    "description": "",
+    "typical_time_spent": "",
+    "verified": "TRUE",
+    "owner_id": 110661574022601874454,
+    "owner_title": "1st call plumbing and rooter service",
+    "owner_link": "https://www.google.com/maps/contrib/110661574022601874454",
+    "reservation_links": "",
+    "booking_appointment_link": "",
+    "menu_link": "",
+    "order_links": "",
+    "location_link": "https://www.google.com/maps/place/1st+call+plumbing+and+rooter+service/@35.3186489,-87.6136849,14z/data=!4m8!1m2!2m1!1s1st+call+plumbing+and+rooter+service!3m4!1s0x87d2eae711131a93:0x70f9c6730991ff0e!8m2!3d35.3186489!4d-87.6136849",
+    "location_reviews_link": "https://www.google.com/maps/place/1st+call+plumbing+and+rooter+service/@35.3186489,-87.6136849,13.99z/data=!4m16!1m7!3m6!1s0x87d2eae711131a93:0x70f9c6730991ff0e!2s1st+call+plumbing+and+rooter+service!8m2!3d35.3186489!4d-87.6136849!16s%2Fg%2F11ckvg1dmb!3m7!1s0x87d2eae711131a93:0x70f9c6730991ff0e!8m2!3d35.3186489!4d-87.6136849!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "place_id": "ChIJkxoTEefq0ocRDv-RCXPG-XA",
+    "google_id": "0x87d2eae711131a93:0x70f9c6730991ff0e",
+    "cid": 8140755998832983822,
+    "reviews_id": 8140755998832983822,
+    "located_google_id": "",
+    "email_1": "",
+    "email_1.emails_validator.status": "",
+    "email_1.emails_validator.status_details": "",
+    "email_1_full_name": "",
+    "email_1_first_name": "",
+    "email_1_last_name": "",
+    "email_1_title": "",
+    "email_1_phone": "",
+    "email_2": "",
+    "email_2.emails_validator.status": "",
+    "email_2.emails_validator.status_details": "",
+    "email_2_full_name": "",
+    "email_2_first_name": "",
+    "email_2_last_name": "",
+    "email_2_title": "",
+    "email_2_phone": "",
+    "email_3": "",
+    "email_3.emails_validator.status": "",
+    "email_3.emails_validator.status_details": "",
+    "email_3_full_name": "",
+    "email_3_first_name": "",
+    "email_3_last_name": "",
+    "email_3_title": "",
+    "email_3_phone": "",
+    "phone_1": "",
+    "phone_1.phones_enricher.carrier_type": "",
+    "phone_1.phones_enricher.carrier_name": "",
+    "phone_2": "",
+    "phone_3": "",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "tiktok": "",
+    "medium": "",
+    "reddit": "",
+    "skype": "",
+    "snapchat": "",
+    "telegram": "",
+    "whatsapp": "",
+    "twitter": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "",
+    "crunchbase": "",
+    "website_title": "",
+    "website_generator": "",
+    "website_description": "",
+    "website_keywords": "",
+    "website_has_fb_pixel": "",
+    "website_has_google_tag": ""
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 2.0,
+      "2020-04": 2.0,
+      "2021-11": 2.0,
+      "2023-09": 1.0,
+      "2021-02": 1.0,
+      "2018-05": 4.0,
+      "2018-07": 1.0,
+      "2018-12": 1.0,
+      "2019-04": 1.0,
+      "2019-07": 1.0,
+      "2021-03": 2.0,
+      "2021-04": 1.0,
+      "2023-07": 1.0,
+      "2023-06": 1.0,
+      "2018-02": 1.0,
+      "2021-08": 2.0,
+      "2017-11": 2.0,
+      "2020-11": 1.0,
+      "2022-12": 2.0,
+      "2017-12": 1.0,
+      "2019-09": 1.0
+    },
+    "yearly_totals": {},
+    "total_reviews": 31,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great work great price explained what he was doing and why will be my only choice for any plumbing needs",
+      "reviewer_name": "Hunter Baltz",
+      "date": "2024-05-30T23:33:41.278Z"
+    },
+    {
+      "text": "Brandon did an excellent job replacing old shower faucet. He was very prompt, and courteous. His pricing was very fair and reasonable. We will certainly be using 1st Call Plumbing for any future plumbing repairs!",
+      "reviewer_name": "Todd McCauley",
+      "date": "2024-05-07T02:22:01.046Z"
+    },
+    {
+      "text": "The most professional and kind home repairman I\u2019ve ever had. Not only does Brandon do great work but makes sure you understand why and how he is doing what he is doing through the whole process. Never once was I worried about the process.",
+      "reviewer_name": "Jordan stone",
+      "date": "2023-09-18T12:06:41.258Z"
+    },
+    {
+      "text": "Fast and friendly service. Very happy with the repairs.",
+      "reviewer_name": "Debbie Farner",
+      "date": "2023-07-30T19:23:21.086Z"
+    },
+    {
+      "text": "Prompt, polite, and priced right",
+      "reviewer_name": "John Carroll",
+      "date": "2023-06-26T20:24:44.898Z"
+    },
+    {
+      "text": "Very neat & professional . Was very nice and did everything to make sure the best of his quality . Definitely using him again \ud83e\udd1c\ud83c\udffe\ud83e\udd1b\ud83c\udffe",
+      "reviewer_name": "Nardo Ruthless",
+      "date": "2022-12-31T20:50:00.642Z"
+    },
+    {
+      "text": "It's truly difficult finding honest people who are willing to provide quality services you can trust. Brandon was able to provide me a service when I was in need of help during a busy christmas break. He is very friendly and easy to talk to. Answered any questions I had without frustration.",
+      "reviewer_name": "Fernando Saad",
+      "date": "2022-12-30T20:06:09.499Z"
+    },
+    {
+      "text": "Very satisfied with service and professional attitude towards the problem.",
+      "reviewer_name": "Ken Smith",
+      "date": "2021-11-12T15:21:42.888Z"
+    },
+    {
+      "text": "Brandon did a great job and was able to squeeze me in between jobs!!! I highly recommend this company!!!",
+      "reviewer_name": "Jeff Mitchell",
+      "date": "2021-08-05T22:27:38.663Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "CthulhuKittie",
+      "date": "2021-08-04T23:58:22.424Z"
+    },
+    {
+      "text": "Brandon Did awesome job would recommend to anyone who is looking for a awesome plumber and Brandon makes sure everything thing was good before he left and cleaned up before leaving too Ty Brandon.",
+      "reviewer_name": "Ms. Elizabeth Isaacs",
+      "date": "2021-04-12T22:20:15.786Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Ron Stephens",
+      "date": "2021-03-26T01:36:32.103Z"
+    },
+    {
+      "text": "They did a great job. They quickly worked me into his schedule after business hours. They did excellent work and provided great customer service.",
+      "reviewer_name": "Jacob Smith",
+      "date": "2021-03-03T03:20:13.547Z"
+    },
+    {
+      "text": "Brandon came out quickly and after business hours like we needed. He did the job for less than he originally quoted and did a great job! We will use him next time we need work done!  We highly recommend.",
+      "reviewer_name": "Sandy Stokes",
+      "date": "2021-02-21T19:18:52.677Z"
+    },
+    {
+      "text": "Best plumber!  Always reliable and reasonable rates as well.",
+      "reviewer_name": "Marjean Rowe",
+      "date": "2020-11-13T01:54:37.951Z"
+    },
+    {
+      "text": "Brandon answered my call on the 2nd ring. He got here right on time and had us fixed up in no time at all. VERY professional and friendly service! Would recommend to anyone, anytime!",
+      "reviewer_name": "Adam Tidwell",
+      "date": "2020-04-25T16:51:36.421Z"
+    },
+    {
+      "text": "Excellent service! Great price for high quality work! Definitely recommend.",
+      "reviewer_name": "Mike Williams",
+      "date": "2020-04-07T22:47:20.599Z"
+    },
+    {
+      "text": "Brandon did a great job and helped us out when we were in a bind. Came out promptly and replaced our water heater in a couple hours, that day. Also gave us a great price for high quality work.",
+      "reviewer_name": "bpharesrcc",
+      "date": "2019-09-10T00:57:45.058Z"
+    },
+    {
+      "text": "Great response time, knowledgeable,  reasonable.   Really appreciated Brandon coming to the rescue!",
+      "reviewer_name": "Wendy Giglia",
+      "date": "2019-07-14T21:58:51.702Z"
+    },
+    {
+      "text": "Very dependable",
+      "reviewer_name": "Cindy Allwine",
+      "date": "2019-04-01T15:59:06.399Z"
+    },
+    {
+      "text": "Awesome company! Came out within minutes of me calling (at night, on a weekend). I will definitely use this company in the future!",
+      "reviewer_name": "Justin Burton",
+      "date": "2018-12-31T22:27:33.735Z"
+    },
+    {
+      "text": "I was having an issue with a leak around my toilet. Brandon and 1st Call Plumbing responded quickly to help out. He attempted several different solutions to get the leak to stop, making multiple trips to the hardware store. He then explained to me why those options weren't working, and what he recommended to fix the problem. He even took the time to show me where the issue was and explained what he had tried previously in detail. We finally decided on replacing the unit all together, which he took care of and had installed quickly.\n\nVery reasonably price. Thorough. Timely.\nFantastic Job. I would recommend his work again to anyone!",
+      "reviewer_name": "Audrian Harville",
+      "date": "2018-07-19T04:51:48.251Z"
+    },
+    {
+      "text": "Brandon has ALWAYS gone above and beyond to fix things and get them right! A Southern gentleman, neat and clean, doing a job that no one else wants to do.  I HIGHLY recommend his services, he's worth every penny !",
+      "reviewer_name": "Shari Anderson",
+      "date": "2018-05-30T05:06:00.060Z"
+    },
+    {
+      "text": "Blake is great guy, who does great work. Awesome customer service. Highly recommend!!",
+      "reviewer_name": "Tre Day",
+      "date": "2018-05-29T16:44:08.802Z"
+    },
+    {
+      "text": "Was having problems getting a good guy out to get me hooked up. Showed up on time and took care of me. I would recommend to anyone. In fact he as already done work for some clients and they r very pleased.",
+      "reviewer_name": "Gera Teague",
+      "date": "2018-05-16T22:12:38.445Z"
+    },
+    {
+      "text": "Great guy, great service. I wish I had called him first, I spent more money trying to fix it myself than what he charged. Highly recommend.",
+      "reviewer_name": "First Last",
+      "date": "2018-05-10T01:06:06.157Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Truman Sunderland",
+      "date": "2018-02-20T00:15:52.002Z"
+    },
+    {
+      "text": "Brandon with 1st Call Plumbing and Rooter Service was fantastic to work with. He accepted a cold call job and was willing to come take a look at what we had going on with our natural gas lines and plumbing lines in the bathroom.\n\nHe was very up front with his prices and explanation of services. He made a smart move by quoting the job as a \"worst case scenario\" which gave my wife and I an opportunity to make an informed decision. He was able to complete the job very quickly and at a reasonable rate per hour, I feel like he met and went beyond our expectations for the service he provided.\n\nHe was courteous to me over the phone, respectful to my wife and great with my kiddo as he watched what was going on. There was no doubt in my mind that he appreciated having the work, and he made us feel like our needs were of utmost importance - which we were thankful for as we are new homeowners just figuring out how to take care of our new homes features.\n\nI would highly recommend him and his services for whatever your plumbing needs may be. I will for sure be contacting him again with any future projects!\n\nThank you, Brandon. God bless.\n\n- A satisfied customer",
+      "reviewer_name": "Nathaniel & Krista Lutz",
+      "date": "2017-12-18T19:54:22.171Z"
+    },
+    {
+      "text": "Thank you. Very honest. And great work. Came the same day and fixed an ongoing problem.",
+      "reviewer_name": "Leslie C. Galvan",
+      "date": "2017-11-15T22:37:24.586Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jeff Akins",
+      "date": "2017-11-03T15:32:49.499Z"
+    }
+  ]
+}

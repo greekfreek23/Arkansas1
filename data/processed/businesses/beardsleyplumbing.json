@@ -1,0 +1,217 @@
+{
+  "ids": {
+    "site_id": "beardsleyplumbing",
+    "place_id": "ChIJiZmI5StH0ocRhRzJOFaUaqY",
+    "google_id": "0x87d2472be5889989:0xa66a945638c91c85",
+    "owner_id": 108530531058435247013
+  },
+  "basic_info": {
+    "name": "Beardsley Plumbing",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJiZmI5StH0ocRhRzJOFaUaqY&q=plumber,+72081,+Judsonia,+AR,+US&authuser=0&hl=en&gl=US",
+    "phone": "+1 501-270-6564",
+    "query": "plumber, 72081, Judsonia, AR, US",
+    "name_for_emails": "Beardsley Plumbing",
+    "site": "",
+    "subtypes": "Plumber, Excavating contractor",
+    "category": "Plumber",
+    "type": "Plumber",
+    "phone.phones_enricher.carrier_type": "mobile",
+    "phone.phones_enricher.carrier_name": "CELLCO PARTNERSHIP DBA VERIZON WIRELESS - AR",
+    "full_address": "909 S 8th St, Heber Springs, AR 72543",
+    "borough": "None",
+    "street": "909 S 8th St",
+    "city": "Heber Springs",
+    "postal_code": 72543,
+    "state": "Arkansas",
+    "us_state": "Arkansas",
+    "country": "United States of America",
+    "country_code": "US",
+    "latitude": 35.4827878,
+    "longitude": -92.0379231,
+    "h3": "89265869263ffff",
+    "time_zone": "America/Chicago",
+    "plus_code": "",
+    "area_service": "FALSE",
+    "rating": 3.8,
+    "reviews": 20,
+    "reviews_tags": "",
+    "reviews_per_score": "",
+    "photos_count": 84,
+    "photo": "https://lh5.googleusercontent.com/p/AF1QipNYimUbeGW-JuUdmjDhpvifBLDq19czOh7mcoOg=w800-h500-k-no",
+    "street_view": "https://lh5.googleusercontent.com/p/AF1QipNYimUbeGW-JuUdmjDhpvifBLDq19czOh7mcoOg=w1600-h1000-k-no",
+    "located_in": "",
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"9AM-5PM\"}",
+    "working_hours_old_format": "Monday:7AM-5PM|Tuesday:7AM-5PM|Wednesday:7AM-5PM|Thursday:7AM-5PM|Friday:7AM-5PM|Saturday:9AM-5PM|Sunday:9AM-5PM",
+    "other_hours": "",
+    "popular_times": "",
+    "business_status": "OPERATIONAL",
+    "about": "{}",
+    "range": "",
+    "posts": "",
+    "logo": "https://lh3.googleusercontent.com/-KKKB6lKsCdQ/AAAAAAAAAAI/AAAAAAAAAAA/Vf1RHm91Nkc/s44-p-k-no-ns-nd/photo.jpg",
+    "description": "",
+    "typical_time_spent": "",
+    "verified": "TRUE",
+    "owner_id": 108530531058435247013,
+    "owner_title": "Beardsley Plumbing",
+    "owner_link": "https://www.google.com/maps/contrib/108530531058435247013",
+    "reservation_links": "",
+    "booking_appointment_link": "",
+    "menu_link": "",
+    "order_links": "",
+    "location_link": "https://www.google.com/maps/place/Beardsley+Plumbing/@35.4827878,-92.0379231,14z/data=!4m8!1m2!2m1!1sBeardsley+Plumbing!3m4!1s0x87d2472be5889989:0xa66a945638c91c85!8m2!3d35.4827878!4d-92.0379231",
+    "location_reviews_link": "https://www.google.com/maps/place/Beardsley+Plumbing/@35.4827878,-92.0379231,13.99z/data=!4m16!1m7!3m6!1s0x87d2472be5889989:0xa66a945638c91c85!2sBeardsley+Plumbing!8m2!3d35.4827878!4d-92.0379231!16s%2Fg%2F11ckvg1dmb!3m7!1s0x87d2472be5889989:0xa66a945638c91c85!8m2!3d35.4827878!4d-92.0379231!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+    "place_id": "ChIJiZmI5StH0ocRhRzJOFaUaqY",
+    "google_id": "0x87d2472be5889989:0xa66a945638c91c85",
+    "cid": 11991560055868169349,
+    "reviews_id": -6455184017841382267,
+    "located_google_id": "",
+    "email_1": "",
+    "email_1.emails_validator.status": "",
+    "email_1.emails_validator.status_details": "",
+    "email_1_full_name": "",
+    "email_1_first_name": "",
+    "email_1_last_name": "",
+    "email_1_title": "",
+    "email_1_phone": "",
+    "email_2": "",
+    "email_2.emails_validator.status": "",
+    "email_2.emails_validator.status_details": "",
+    "email_2_full_name": "",
+    "email_2_first_name": "",
+    "email_2_last_name": "",
+    "email_2_title": "",
+    "email_2_phone": "",
+    "email_3": "",
+    "email_3.emails_validator.status": "",
+    "email_3.emails_validator.status_details": "",
+    "email_3_full_name": "",
+    "email_3_first_name": "",
+    "email_3_last_name": "",
+    "email_3_title": "",
+    "email_3_phone": "",
+    "phone_1": "",
+    "phone_1.phones_enricher.carrier_type": "",
+    "phone_1.phones_enricher.carrier_name": "",
+    "phone_2": "",
+    "phone_3": "",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "tiktok": "",
+    "medium": "",
+    "reddit": "",
+    "skype": "",
+    "snapchat": "",
+    "telegram": "",
+    "whatsapp": "",
+    "twitter": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "",
+    "crunchbase": "",
+    "website_title": "",
+    "website_generator": "",
+    "website_description": "",
+    "website_keywords": "",
+    "website_has_fb_pixel": "",
+    "website_has_google_tag": ""
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-06": 1.0,
+      "2020-12": 1.0,
+      "2021-11": 1.0,
+      "2022-06": 1.0,
+      "2021-02": 1.0,
+      "2020-07": 4.0,
+      "2021-03": 1.0,
+      "2021-10": 1.0,
+      "2020-09": 1.0,
+      "2020-10": 3.0,
+      "2020-11": 1.0,
+      "2021-01": 1.0,
+      "2021-09": 1.0,
+      "2020-08": 1.0
+    },
+    "yearly_totals": {},
+    "total_reviews": 20,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "five_star_reviews": [
+    {
+      "text": "Beardsley plumbing was referred to me by a good friend. They did an excellent job finding and repairing several leaks from frozen pipes this last week. They got my water running again quickly and I am super thankful for the wonderful job they did!!!",
+      "reviewer_name": "Susie Young",
+      "date": "2021-02-23T21:45:47.047Z"
+    },
+    {
+      "text": "Love beardsley plumbing. He was able to come out and fix the pipe that had broke. Also answered any questions I had and explained what had happened for the pipe to brake the way it did.",
+      "reviewer_name": "Amber Parker",
+      "date": "2021-01-19T16:51:26.133Z"
+    },
+    {
+      "text": "Perfect service and very reasonable price. Will use Beardsley Plumbing for all of my plumbing needs.",
+      "reviewer_name": "ellie klaser",
+      "date": "2020-12-31T01:37:50.049Z"
+    },
+    {
+      "text": "We had a house under contract to be sold.  The potential buyer hired a home inspector who determined there was no overflow drain pan under the current water heater.  I called Beardsley Plumbing after reading several comments on Facebook posts that recommended him.  We had only one week until closing to correct the problem.  Mr. Beardsley met us at the house immediately to assess the job.  At that time we noticed that the water heater has been leaking and the pressure relief valve was not working.  We told him to just replace the water heater and add the requested pan.  He called us that afternoon to come see the completed job.  Very pleased with the quick response and professional service.  Mr. Beardsley explained the importance of draining your water heater every two years to remove sediment and  avoid the corrosion that decreases  the life of the water heater.  He offers a very reasonable annual service contract that covers simple plumbing repairs like water leaks as well as checking your water heater and draining it at the recommended intervals.  Will definitely  use him for all our plumbing problems in the future,  highly recommend.  I WILL be getting a service contract with him.",
+      "reviewer_name": "Char Van",
+      "date": "2020-11-07T13:52:05.850Z"
+    },
+    {
+      "text": "I highly recommend Beardsley Plumbing. They did an excellent job. They are very knowledgeable and honest. I will use them again and I will refer them to everyone.  Thank you Jimmy.\nFrom The Tatums",
+      "reviewer_name": "Tammy Tatum",
+      "date": "2020-10-31T00:49:08.278Z"
+    },
+    {
+      "text": "Beardsley Plumbing was Very helpful in finding and resolving a propane leak at my home. They were very helpful. I would definitely  use them again.",
+      "reviewer_name": "Scott W.",
+      "date": "2020-10-09T18:22:14.936Z"
+    },
+    {
+      "text": "I needed a plumber in a pinch. Jimmy answered and got me fixed up in a short period of time. I definitely would recommend his services!",
+      "reviewer_name": "Jordan C",
+      "date": "2020-10-08T16:21:45.193Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Ray Fosh\u00e9e",
+      "date": "2020-09-04T01:38:57.009Z"
+    },
+    {
+      "text": "Jimmy Beardsley is not only a great Plummer but also a very fine person; courteous and professional. When our hot water heater went out, Jimmy gave us several options on repairing and replacing it; the pros and cons for each option. He was always prompt and did the work right. When the job was finished, the work area was clean and spotless. I would highly recommend Jimmy and his company for any plumbing work.",
+      "reviewer_name": "Rob Owens",
+      "date": "2020-08-10T12:29:09.255Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jon Cook",
+      "date": "2020-07-21T19:12:41.510Z"
+    },
+    {
+      "text": "I needed a plumber in a pinch and they came immediately, assessed the situation and gave me an affordable quote on time and price and they delivered exactly as promised! When I needed a kitchen faucet replaced, I called them first and they delivered! Great service, Top Quality Work!",
+      "reviewer_name": "Andrea L Bowles",
+      "date": "2020-07-19T11:57:04.872Z"
+    },
+    {
+      "text": "Refreshing to have a craftsman do what they say they will do when they say they will do it!  Top notch service and price.  I will use Beardsley Plumbing in the future and will not hesitate to refer Jimmy  Beardsley to family and friends. I had  been without hot water for 10 days, and he made time in his busy schedule to fit us in and make us a priority. We appreciate that kind of heart in a business. God Bless!",
+      "reviewer_name": "Tammy Kell",
+      "date": "2020-07-16T01:19:39.024Z"
+    },
+    {
+      "text": "After a month and many plumbers coming out and what seemed to be a never ending of plumbers saying nothing can be done. I am happy to say that when they came out checked things and went right work and fixed a problem that no other wanted to handle or do.\nI recommend them for not only doing the job but doing it quickly and professionally. Save yourself time, money and frustration and just call them first.",
+      "reviewer_name": "alethea walters",
+      "date": "2020-07-02T17:31:23.101Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Brooklyn L",
+      "date": "2020-06-26T20:53:06.674Z"
+    }
+  ]
+}
